@@ -1,0 +1,202 @@
+{
+    "username": {
+        "last": "test",
+        "tempaddr": "",
+        "peraddr": "",
+        "friRqst": [],
+        "post": [
+            [
+                "hello how are you",
+                "post/username/username1post.png"
+            ]
+        ],
+        "password": "test",
+        "friends": [
+            "devil786",
+            "messi",
+            "ankush12"
+        ],
+        "dp": "default.jpeg",
+        "first": "test"
+    },
+    "": {
+        "last": "",
+        "tempaddr": "",
+        "peraddr": "",
+        "friRqst": [],
+        "post": [],
+        "password": "",
+        "friends": [],
+        "dp": "default.jpeg",
+        "first": ""
+    },
+    "ankush12": {
+        "last": "Chauhan",
+        "tempaddr": "",
+        "peraddr": "",
+        "friRqst": [],
+        "post": [
+            [
+                "hi how are you",
+                "post/ankush12/ankush121post.png"
+            ]
+        ],
+        "password": "ankush",
+        "friends": [
+            "username"
+        ],
+        "dp": "default.jpeg",
+        "first": "Ankush"
+    },
+    "messi": {
+        "last": "Messi",
+        "peraddr": "",
+        "first": "Lionel",
+        "friRqst": [],
+        "post": [
+            [
+                "hello how are you",
+                "post/messi/messi1post.png"
+            ]
+        ],
+        "password": "messi",
+        "friends": [
+            "devil786",
+            "username"
+        ],
+        "dp": "default.jpeg",
+        "tempaddr": ""
+    },
+    "hxh": {
+        "last": "",
+        "tempaddr": "",
+        "peraddr": "",
+        "friRqst": [
+            "devil786"
+        ],
+        "post": [],
+        "password": "",
+        "friends": [],
+        "dp": "default.jpeg",
+        "first": ""
+    },
+    "vicious": {
+        "last": "Kumar",
+        "peraddr": "",
+        "first": "Vicious",
+        "friRqst": [],
+        "post": [],
+        "password": "vicious",
+        "friends": [],
+        "dp": "default.jpeg",
+        "tempaddr": ""
+    },
+    "kuro12": {
+        "last": "Saki",
+        "tempaddr": "",
+        "peraddr": "",
+        "friRqst": [],
+        "post": [
+            [
+                "love you messi",
+                "post/kuro12/kuro121post.png"
+            ]
+        ],
+        "password": "ankush",
+        "friends": [
+            "devil786"
+        ],
+        "dp": "default.jpeg",
+        "first": "Kuro"
+    },
+    "kurosaki12": {
+        "last": "Chauhan",
+        "peraddr": "",
+        "first": "Ankush",
+        "friRqst": [],
+        "post": [],
+        "password": "ankush",
+        "friends": [],
+        "dp": "default.jpeg",
+        "tempaddr": ""
+    },
+    "vicious12": {
+        "last": "Kumar",
+        "tempaddr": "",
+        "peraddr": "",
+        "friRqst": [],
+        "post": [
+            [
+                "messiiiiii",
+                "post/vicious12/vicious122post.png"
+            ],
+            [
+                "messiiiiii",
+                "post/vicious12/vicious121post.png"
+            ]
+        ],
+        "password": "ankush",
+        "friends": [],
+        "dp": "default.jpeg",
+        "first": "Vicious"
+    },
+    "bleach": {
+        "last": "kurosaki",
+        "peraddr": "",
+        "first": "ichigo",
+        "friRqst": [
+            "devil786",
+            "username"
+        ],
+        "post": [],
+        "password": "ankush",
+        "friends": [],
+        "dp": "default.jpeg",
+        "tempaddr": ""
+    },
+    "devil786": {
+        "last": "Chauhan",
+        "tempaddr": "",
+        "peraddr": "",
+        "friRqst": [
+            "vicious12"
+        ],
+        "post": [
+            [
+                "hi",
+                "post/devil786/devil7862post.png"
+            ],
+            [
+                "ankush",
+                "post/devil786/devil7861post.png"
+            ]
+        ],
+        "password": "ankush",
+        "friends": [
+            "username",
+            "messi",
+            "devil12",
+            "kuro12"
+        ],
+        "dp": "devil786dp.png",
+        "first": "Ankush"
+    },
+    "devil12": {
+        "last": "Kumar",
+        "peraddr": "",
+        "first": "Devil",
+        "friRqst": [],
+        "post": [
+            [
+                "nice...",
+                "post/devil12/devil122post.png"
+            ]
+        ],
+        "password": "ankush",
+        "friends": [
+            "devil786"
+        ],
+        "dp": "default.jpeg",
+        "tempaddr": ""
+    }
+}
