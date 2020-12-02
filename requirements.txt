@@ -1,0 +1,8 @@
+socket
+sys
+Tkinter
+cStringIO
+simplejson
+PIL
+numpy
+pickle
