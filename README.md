@@ -6,7 +6,7 @@
 run the following command to install required libraries
 
 ```bash
-python2.7 -m pip install -r requirements.txt
+pip install -r requirements.txt
 ```
 
 ## Demo
