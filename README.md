@@ -10,7 +10,15 @@ python3 -m pip install -r requirements.txt
 ```
 
 ## Demo
+For Client 
+```bash
+python2.7 client.py ipAddress
+```
 
+For Server 
+```bash
+python2.7 server.py ipAddress
+```
 
 
 ## Team Members
